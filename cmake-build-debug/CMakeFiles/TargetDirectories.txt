@@ -1,0 +1,3 @@
+C:/Users/pirir/CLionProjects/2024_Parcial2_Pirir/cmake-build-debug/CMakeFiles/2024_Parcial2_Pirir.dir
+C:/Users/pirir/CLionProjects/2024_Parcial2_Pirir/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pirir/CLionProjects/2024_Parcial2_Pirir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
